@@ -151,7 +151,7 @@
 		},
 		{
 			"Name": "Aura",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
