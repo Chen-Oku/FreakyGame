@@ -152,6 +152,14 @@
 		{
 			"Name": "Aura",
 			"Enabled": false
+		},
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "ElectraCodecs",
+			"Enabled": true
 		}
 	]
 }
